@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGI,OAAY;EACR,UAAU,ECJF,MAAM;EDKd,aAAa,EAAE,GAAG;;AAFtB,OAAY;EACR,UAAU,ECJF,MAAM;EDKd,aAAa,EAAE,GAAG;;AAFtB,OAAY;EACR,UAAU,ECJF,MAAM;EDKd,aAAa,EAAE,GAAG",
+"sources": ["../sass/estilo.scss","../sass/_variaveis.scss"],
+"names": [],
+"file": "estilo.css"
+}
